@@ -334,11 +334,3 @@ Let your time be spent on more valuable things—let AI handle those tedious, re
 | Skills configuration | Need to install yourself | Pre-built |
 
 **Conclusion**: If you want to easily and quickly use OpenClaw, choose **www.getaclaw.ai**!
-
----
-
-*This article is compiled based on popular GitHub OpenClaw tutorials*
-
-*Date: March 11, 2026*
-
-*References: Zhihu Column, awesome-openclaw-tutorial, OpenClaw Chinese Documentation Site, OpenClaw Learning Tutorial, OpenClaw Pitfall Guide*
